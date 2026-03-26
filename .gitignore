@@ -7,3 +7,9 @@ venv/
 .venv/
 .vscode/
 .DS_Store
+.env
+*.local
+!.vscode/settings.json
+!.vscode/extensions.json
+*.tmp
+*.log
